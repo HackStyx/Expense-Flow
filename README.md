@@ -64,9 +64,8 @@ ExpenseFlow is a powerful desktop application designed to help users track, cate
 - Custom styling and theming
 
 ## 📸 Screenshots
-
 <div align="center">
-  <img src="Screenshot.png" alt="ExpenseFlow Main Interface" width="800"/>
+  <img src="https://github.com/user-attachments/assets/7af7083c-d478-413f-a645-a3cbc7f15315" alt="ExpenseFlow Main Interface" width="800"/>
   <p><em>ExpenseFlow expense tracking interface showing expense list and summary dashboard</em></p>
 </div>
 
